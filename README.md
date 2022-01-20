@@ -45,13 +45,14 @@ Całujcie mnie wszyscy w dupę.
     + I
 + Tyle
 
-
+```
     Complex operator + (Complex const &obj) {
         Complex res;
         res.real = real + obj.real;
         res.imag = imag + obj.imag;
     return res;
 }
+```
 
 Coco jumbo coco jumbo ```Class CocoJumbo{``` w tekście
 
