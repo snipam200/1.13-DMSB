@@ -56,4 +56,4 @@ Całujcie mnie wszyscy w dupę.
 
 Coco jumbo coco jumbo ```Class CocoJumbo{``` w tekście
 
-![Hi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCpts-8H1DqUaGmUkFhbXMQQ&psig=AOvVaw0soUJsXAA8edia8KU3PDaG&ust=1642766832794000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMD3lb6lwPUCFQAAAAAdAAAAABAD)
+![Hi](https://github.com/snipam200/1.13-DMSB/blob/main/unnamed.jpg)
